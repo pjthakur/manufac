@@ -35,5 +35,5 @@
     http://localhost:5173
     ```
 4. #### Deployed Link for the Assignment:
-    [Deployed](https://manufac-gamma.vercel.app/)
+    [Manufac-analytics-assignment](https://manufac-gamma.vercel.app/)
 ## For any queries related to the project, contact at priyanshjadon@gmail.com
