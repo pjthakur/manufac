@@ -1,0 +1,43 @@
+.mantine-Table-table {
+  align-items: center;
+  width: 90%;
+  border-collapse: collapse;
+  margin: 1% 5% 0 5%;
+  font-size: 1.2em;
+  font-family: "Arial", sans-serif;
+  text-align: left;
+}
+
+.mantine-Table-thead {
+  background-color: #f4f4f4;
+}
+
+.mantine-Table-tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.mantine-Table-th {
+  padding: 10px;
+  background-color: rgb(7, 164, 57);
+  color: #ffffff;
+  text-align: center;
+}
+
+.mantine-Table-td {
+  padding: 15px;
+  text-align: center;
+}
+.tableHeading {
+  color: black;
+  font-size: xx-large;
+  text-decoration: underline;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-weight: bold;
+}
+
+#table2{
+  margin-top: 2%;
+}
