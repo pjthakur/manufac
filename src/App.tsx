@@ -3,6 +3,7 @@ import { MantineProvider } from "@mantine/core";
 import { theme } from "./theme";
 import CropAverageTable from "./Components/CropAverageTable";
 import CropMaxMinTable from "./Components/CropMaxMinTable";
+import './app.css'
 
 export default function App() {
   return (
